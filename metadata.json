@@ -1,0 +1,6 @@
+{
+  "name": "FreshCart 3D",
+  "description": "Premium 3D animated online grocery shopping platform with interactive 3D supermarket aisles, realistic physics items, order tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
